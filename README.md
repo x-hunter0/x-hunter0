@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @x-hunter0
-- 👀 I’m interested in Hacking(ethical) & Programing
-- 🌱 I’m currently learning [C] [Python]
-- 💞️ I’m looking to collaborate on 0
-- 📫 How to reach me: https://t.me/Its_Your_own_Risk
-- 😄 Pronouns: x-hunter
+- 👀 I’m interested in Hacking & Programing
+- 🌱 I’m currently learning [C] [Python] [go]
+- 💞️ I’m looking to collaborate on with NO
+- 📫 How to reach me: https://t.me/Ipv6_128Bits
+- 😄 Pronouns: IPV6
 - ⚡ Fun fact: Hey Bro
 
 <!---
